@@ -1,0 +1,4 @@
+poc-maxwell:
+  maxwell:
+    props: --user=maxwell,--password=XXXXXX,--host=127.0.0.1,--port=8888,--custom_producer.factory=com.poc.maxwell.CustomProducerFactory
+#    props: --user=maxwell,--password=XXXXXX,--host=127.0.0.1,--port=8888,--producer=stdout
